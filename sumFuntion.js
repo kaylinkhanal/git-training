@@ -1,6 +1,6 @@
-const arr = [3, 2, 1];
+const arr = [3, 2, 1, 100];
 let sum = 0;
-function myFunc() {
+function mySumArr() {
   sum = sum + item;
 }
 console.log(sum);
