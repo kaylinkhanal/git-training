@@ -5,3 +5,13 @@ const mySum = arr.forEach((item) => {
   return sum;
 });
 console.log(sum);
+
+const user = {
+    fname : "Puja"
+    lname: "Thapa"
+    address: "Nepal"
+    phone:"9867677---"
+}
+
+const userPhone = user.phone + "belongs to " + user.fname;
+console.log(userPhone)
