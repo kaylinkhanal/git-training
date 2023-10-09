@@ -12,3 +12,6 @@ const user = {
     address: "Nepal"
     phone:"9867677---"
 }
+
+const userPhone = user.phone + "belongs to " + user.fname;
+console.log(userPhone)
