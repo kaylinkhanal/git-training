@@ -1,7 +1,7 @@
 
 const arr = [3, 2, 1, 100];
 let sum = 0;
-const mySumArr =arr.map((items)=>{
+const mySum =arr.forEach((items)=>{
     sum = sum + items;
     return sum;
 }) 
