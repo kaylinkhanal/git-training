@@ -1,3 +1,4 @@
+// sum function
 const arr = [1, 2, 3];
 let sum = 0;
 arr.forEach((item) => {
@@ -5,6 +6,7 @@ arr.forEach((item) => {
 });
 console.log(sum);
 
+// rest operator
 const user = {
   name: "ram",
   address: "kathmandu",
