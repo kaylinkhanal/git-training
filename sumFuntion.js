@@ -6,3 +6,10 @@ const mySumArr =arr.map((items)=>{
     return sum;
 }) 
 console.log(sum);
+
+const user = {
+    fname : "Puja"
+    lname: "Thapa"
+    address: "Nepal"
+    phone:"9867677---"
+}
